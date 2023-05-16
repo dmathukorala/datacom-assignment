@@ -1,0 +1,10 @@
+{
+  "baseUrl": "users.host",
+  "relativeUrl": "/users",
+  "method": "GET",
+  "status": 200,
+  "headers": {
+    "Accept" : "application/json"
+  }
+
+}

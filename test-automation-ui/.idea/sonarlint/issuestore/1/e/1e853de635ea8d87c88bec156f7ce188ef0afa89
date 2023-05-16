@@ -1,0 +1,11 @@
+
+<
+java:S1170"!Make this final field static too.(¦É±Þøÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¦É±Þøÿÿÿÿ
+\
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(£Í´þÿÿÿÿ
+W
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(Ù’Èþ
+b
+java:S2095F"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üÝ½L

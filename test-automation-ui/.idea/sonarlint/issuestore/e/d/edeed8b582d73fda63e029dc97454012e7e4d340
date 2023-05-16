@@ -1,0 +1,12 @@
+
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ïû…â1
+\
+java:S1126j"AReplace this if-then-else statement by a single return statement.(‡¬èúÿÿÿÿ
+W
+java:S1126u"AReplace this if-then-else statement by a single return statement.(ñé©º
+|
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Õû…â1
+J
+java:S1068"/Remove this unused "kompanyPage" private field.(™éãÿÿÿÿÿ
+=
+java:S1068"'Remove this unused "log" private field.(¨†ÇÖ

@@ -1,0 +1,8 @@
+<suite name="Datacom - Automation Test" verbose="10">
+
+    <test name="Datacom Test Automation" preserve-order="true" parallel = "methods" thread-count = "2">
+        <classes>
+            <class name="tests.DemoBNZTest"/>
+        </classes>
+    </test>
+</suite>
